@@ -5,7 +5,7 @@
     <groupId>com.demo.tutorial</groupId>
     <artifactId>addressbook</artifactId>
     <packaging>war</packaging>
-    <version>3.0</version>
+    <version>3.1</version>
     <name>Addressbook example</name>
 
     <properties>
